@@ -1,1 +1,3 @@
 Alterando meu arquivo de texto.
+
+Incluso arquivo gitignore.
